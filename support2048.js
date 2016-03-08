@@ -1,5 +1,7 @@
 // JavaScript Document
-documentWidth=window.screen.width;
+//webSettings.setUseWideViewPort(true);
+//documentWidth=window.screen.width;
+documentWidth=window.innerWidth;
 gridContainerWidth=0.92*documentWidth;
 cellSideLength=0.18*documentWidth;
 cellSpace=0.04*documentWidth;
